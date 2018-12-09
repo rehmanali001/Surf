@@ -1,0 +1,6 @@
+list
+for loops
+conditonals
+functions
+dictionaries
+virtual enviroment 
